@@ -1,7 +1,7 @@
 /*!
  * SlitherAPI v1.0.2
  * Programmatic access to slither.io game state.
- * https://github.com/USERNAME/Slibrary
+ * https://github.com/ct201158/Slibrary
  *
  * Load options:
  *   1. Paste this file's contents into the slither.io DevTools console.
